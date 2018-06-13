@@ -1,10 +1,3 @@
-
-function resetrem(size) {
-
-}
-function resetrem(size) {
-
-}
 function resetrem(size) {
     if(size==320){
         // 设计稿尺寸 size==320
